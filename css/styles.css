@@ -214,9 +214,9 @@ letter-spacing: 0.02em;
   border-radius: 0px 0px 4px 4px;
 }
 /* section 4 */
-.our portfolio {
+.our-portfolio {
   background-color:  #FFF;
-  
+  padding: 120px 0 120px 0;;
 }
 .title-portfolio {
   text-align: center;
