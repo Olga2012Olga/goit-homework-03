@@ -154,7 +154,13 @@ img {
   width: calc((100% - 72px)/4);
 }
 .section-title {
-  margin-bottom:  8px;;
+  margin-bottom:  8px;
+  color:  #2E2F42;
+
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
 }
 
 .text-titele {
@@ -216,7 +222,7 @@ letter-spacing: 0.02em;
 /* section 4 */
 .our-portfolio {
   background-color:  #FFF;
-  padding: 120px 0 120px 0;;
+  padding: 120px 0 120px 0;
 }
 .title-portfolio {
   text-align: center;
@@ -227,7 +233,7 @@ letter-spacing: 0.02em;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   margin-bottom: 72px;
-  padding: 120px 0 120px 0;
+ 
 }
 .portfolio-box {
 padding: 32px 16px;
@@ -290,7 +296,7 @@ letter-spacing: 0.02em;
   max-width: 264px;
 
   /* Body */
-  font-family: Raleway, sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
